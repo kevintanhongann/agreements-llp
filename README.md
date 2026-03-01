@@ -4,7 +4,7 @@ This project provides sample agreements for an IT services company and automates
 
 ## License
 
-The contents of this repository are licensed under the **CC0 1.0 Universal (CC0 1.0) Public Domain Dedication**. 
+The sample agreements in this repository are licensed under the **CC0 1.0 Universal (CC0 1.0) Public Domain Dedication**. 
 To view a copy of this license, visit [http://creativecommons.org/publicdomain/zero/1.0/](http://creativecommons.org/publicdomain/zero/1.0/).
 
 ## Disclaimer
