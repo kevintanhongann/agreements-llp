@@ -1,12 +1,15 @@
-**GENERAL TERMS OF ENGAGEMENT**
+---
+title: General Terms Of Engagement
+version: 0.1.0
+---
 
-PLEASE READ THIS AGREEMENT CAREFULLY BEFORE PURCHASING AND/OR USING SOFTWARE OR SERVICES FROM . BY USING  SOFTWARE OR SERVICES, YOU ("CLIENT") SIGNIFIES ITS ASSENT TO AND ACCEPTANCE OF THIS AGREEMENT AND ACKNOWLEDGES IT HAS READ AND UNDERSTANDS THIS AGREEMENT. AN INDIVIDUAL ACTING ON BEHALF OF AN ENTITY REPRESENTS THAT HE OR SHE HAS THE AUTHORITY TO ENTER INTO THIS AGREEMENT ON BEHALF OF THAT ENTITY. IF CLIENT DOES NOT ACCEPT THE TERMS OF THIS AGREEMENT, THEN IT MUST NOT USE  SOFTWARE OR SERVICES. 
+PLEASE READ THIS AGREEMENT CAREFULLY BEFORE PURCHASING AND/OR USING SOFTWARE OR SERVICES FROM **${PROVIDER}** ("PROVIDER"). BY USING THE PROVIDER'S SOFTWARE OR SERVICES, YOU ("CLIENT") SIGNIFIES ITS ASSENT TO AND ACCEPTANCE OF THIS AGREEMENT AND ACKNOWLEDGES IT HAS READ AND UNDERSTANDS THIS AGREEMENT. AN INDIVIDUAL ACTING ON BEHALF OF AN ENTITY REPRESENTS THAT HE OR SHE HAS THE AUTHORITY TO ENTER INTO THIS AGREEMENT ON BEHALF OF THAT ENTITY. IF CLIENT DOES NOT ACCEPT THE TERMS OF THIS AGREEMENT, THEN IT MUST NOT USE  SOFTWARE OR SERVICES. 
 
-This General Terms of Engagement (the “Agreement”) is between  (the “Provider”) and the Client.
+This General Terms of Engagement (the “Agreement”) is between the Provider and the Client.
 
 1. **Definitions.** For the purposes of this Agreement, the following terms shall have the meanings set forth below:
 
-   a) **"Background Technology"** means preexisting development tools, routines, subroutines and other programs, data, and materials that Provider owns or holds a license to use and may include in the Deliverables.**
+   a) **"Background Technology"** means preexisting development tools, routines, subroutines and other programs, data, and materials that Provider owns or holds a license to use and may include in the Deliverables.
 
    b) **"Business Partner"** means an authorized third-party entity, such as a reseller, distributor, or agent, permitted by the Provider to market, sell, or facilitate the provision of the Provider’s products or services to the Client.
 
@@ -16,13 +19,13 @@ This General Terms of Engagement (the “Agreement”) is between  (the “Provi
 
    e) **"End Client"** means any third party to whom the Client provides the Deliverables or for whose benefit the Services are performed, as specified in an SOW.
 
-   f) **"Foreground IP"** means Intellectual Property Rights created specifically by the Provider for the Client in the performance of Services under a specific SOW.**
+   f) **"Foreground IP"** means Intellectual Property Rights created specifically by the Provider for the Client in the performance of Services under a specific SOW.
 
    g) **"Intellectual Property Rights"** means all (a) rights associated with works of authorship, including copyrights, (b) trademark and trade name rights, (c) trade secret rights, (d) patents, and (e) all other intellectual property rights in any jurisdiction worldwide.
 
    h) **"Open Source Software"** means software distributed under a license that permits users to access, modify, and redistribute the source code, typically adhering to the standards maintained by the Open Source Initiative (OSI).
 
-   i) **"SOW"** means a Statement of Work or Order Form executed by the parties to initiate the purchase of products or services.**
+   i) **"SOW"** means a Statement of Work or Order Form executed by the parties to initiate the purchase of products or services.
 
 2. **Structure.** The Agreement consist of three components. If the documents conflict, the following order of precedence applies:
 
@@ -32,7 +35,7 @@ This General Terms of Engagement (the “Agreement”) is between  (the “Provi
 
    c) these General Terms; 
 
-  If you order Provider's Product from a Business Partner, any agreement that you enter into with the Business Partner is solely between you and the Business Partner and will not be binding on Provider except to the extent that your agreement with a Business Partner references this Agreement.
+   If you order Provider's Product from a Business Partner, any agreement that you enter into with the Business Partner is solely between you and the Business Partner and will not be binding on Provider except to the extent that your agreement with a Business Partner references this Agreement.
 
 3. **Work Initiation.** The Client shall execute an SOW to purchase any products or services from the Provider, or to initiate any work under this Agreement.
 
@@ -44,7 +47,7 @@ This General Terms of Engagement (the “Agreement”) is between  (the “Provi
 
 5. **Contract Price.** For performance of the Services and rendering the Deliverable, Client shall pay to Provider all fees due under the applicable SOW.
 
-6. **General Ownership and Licensing of Deliverables.** Pre-existing intellectual property owned by either party remains the property of that party. Provider uses an open source development model and any software created by Provider's personnel under this Agreement will be licensed under an open source software license. Any modifications to or derivatives of open source software will be licensed under the applicable open source license(s) for that software. To the extent that any part of the Deliverables is not software (e.g., reports, templates, or presentations) and is not subject to an open source license, u**pon full payment of the deliverable, Provider grants Client a perpetual, worldwide, non-exclusive, royalty-free, irrevocable license to reproduce, prepare derivative works of, sell copies of, publicly display, publicly perform, sublicense, and distribute the Deliverable. Client shall retain sole ownership of all Intellectual Property Rights in connection with any original material it provides to Provider for use within the Deliverable. 
+6. **General Ownership and Licensing of Deliverables.** Pre-existing intellectual property owned by either party remains the property of that party. Provider uses an open source development model and any software created by Provider's personnel under this Agreement will be licensed under an open source software license. Any modifications to or derivatives of open source software will be licensed under the applicable open source license(s) for that software. To the extent that any part of the Deliverables is not software (e.g., reports, templates, or presentations) and is not subject to an open source license, upon full payment of the deliverable, Provider grants Client a perpetual, worldwide, non-exclusive, royalty-free, irrevocable license to reproduce, prepare derivative works of, sell copies of, publicly display, publicly perform, sublicense, and distribute the Deliverable. Client shall retain sole ownership of all Intellectual Property Rights in connection with any original material it provides to Provider for use within the Deliverable. 
 
    In no event shall Provider be liable for any claims related to or arising from Client’s improper use of the Deliverable, work in process, or the music, images, source code, and other components that comprise the Deliverable or work in process.
 
@@ -155,13 +158,13 @@ This General Terms of Engagement (the “Agreement”) is between  (the “Provi
 
     e) any claims brought by an End Client or any other third party related to the Client’s use or distribution of the Deliverables.
 
-27. **Limitation of Liability.** TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, COMPANY SHALL NOT BE LIABLE FOR ANY LOSS OF USE, INTERRUPTION OF BUSINESS, LOST PROFITS, OR ANY INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY KIND REGARDLESS OF THE FORM OF ACTION WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT PRODUCT LIABILITY, OR OTHERWISE, EVEN IF IT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN NO EVENT SHALL COMPANY’S AGGREGATE LIABILITY UNDER THIS AGREEMENT EXCEED THE FEES PAID TO COMPANY IN THE TWELVE (12) MONTHS IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO THE CLAIM.
+27. **Limitation of Liability.** TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, PROVIDER SHALL NOT BE LIABLE FOR ANY LOSS OF USE, INTERRUPTION OF BUSINESS, LOST PROFITS, OR ANY INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY KIND REGARDLESS OF THE FORM OF ACTION WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT PRODUCT LIABILITY, OR OTHERWISE, EVEN IF IT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN NO EVENT SHALL PROVIDER’S AGGREGATE LIABILITY UNDER THIS AGREEMENT EXCEED THE FEES PAID TO COMPANY FOR THE PERFORMANCE OF APPLICABLE SOW IN THE TWELVE (12) MONTHS IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO THE CLAIM.
 
 28. **Limitation of Liability Exclusions.** NOTHING IN THIS AGREEMENT SHALL EXCLUDE OR LIMIT EITHER PARTY'S LIABILITY FOR: (A) DEATH OR PERSONAL INJURY CAUSED BY NEGLIGENCE; (B) FRAUD OR FRAUDULENT MISREPRESENTATION; OR (C) ANY OTHER LIABILITY WHICH CANNOT BE EXCLUDED OR LIMITED BY APPLICABLE LAW.
 
 29. **Compliance with Laws.** Each party shall perform all of its obligations under this Agreement in compliance at all times with all foreign, federal, state and local statutes, orders and regulations, including those relating to privacy and data protection.
 
-30. **Disputes.** Disputes and disagreements arising from this Agreement or because of it shall be resolved through negotiations between the Parties. In case of a failure to achieve consent through negotiations:**
+30. **Disputes.** Disputes and disagreements arising from this Agreement or because of it shall be resolved through negotiations between the Parties. In case of a failure to achieve consent through negotiations:
 
     a) If the Client is a business entity incorporated in Malaysia, the Parties agree that all disputes and disagreements independently of their reasons, which arose or can arise between the Parties in accordance with this Agreement, including those related to its entering into, implementing, changing, terminating or annulling (in whole or partially), are submitted for consideration to an applicable court of general jurisdiction or to a magistrates' court in accordance to the current legislation of Malaysia;
 
@@ -173,6 +176,6 @@ This General Terms of Engagement (the “Agreement”) is between  (the “Provi
 
 31. **Choice of Law.** This Agreement shall be deemed to have been made in, and shall be construed pursuant to the laws of Malaysia without regard to conflicts of laws provisions thereof. 
 
-32. **Severability.** If any provision of this Agreement is held to be illegal, invalid, or unenforceable under the laws of Malaysia, such provision shall be deemed severed from this Agreement, and the remaining provisions shall continue in full force and effect. **
+32. **Severability.** If any provision of this Agreement is held to be illegal, invalid, or unenforceable under the laws of Malaysia, such provision shall be deemed severed from this Agreement, and the remaining provisions shall continue in full force and effect. 
 
 33. **General.** If any provision of this Agreement is adjudged by any court of competent jurisdiction to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary so that this Agreement shall otherwise remain in full force and effect.
