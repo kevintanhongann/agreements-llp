@@ -5,9 +5,11 @@ effective_date: DD MMMM YYYY
 client_name: "[CLIENT]"
 client_registration_no: "[CLIENT_REGISTRATION_NO]"
 client_address: "[CLIENT_ADDRESS]"
+client_entity: company
 provider_name: "[PROVIDER]"
 provider_registration_no: "[PROVIDER_REGISTRATION_NO]"
 provider_address: "[PROVIDER_ADDRESS]"
+provider_entity: company
 specific_modifications_and_overrides: |
    1. None
 ---
@@ -16,13 +18,13 @@ specific_modifications_and_overrides: |
 
 BETWEEN:
 
-1. **${CLIENT_NAME} (Registration No: ${CLIENT_REGISTRATION_NO}),** a company incorporated in Malaysia with its registered address at ${CLIENT_ADDRESS} (hereinafter referred to as “Client”);
+1. **${CLIENT_NAME} (Registration No: ${CLIENT_REGISTRATION_NO}),** a ${CLIENT_ENTITY} with its registered address at ${CLIENT_ADDRESS} (hereinafter referred to as “Client”);
 
   
 AND
 
 
-2. **${PROVIDER_NAME} (Registration No: ${PROVIDER_REGISTRATION_NO}), a limited liability partnership **with an address at ${PROVIDER_ADDRESS} (hereinafter referred to as the “Provider”) .
+2. **${PROVIDER_NAME} (Registration No: ${PROVIDER_REGISTRATION_NO}), a ${PROVIDER_ENTITY} with its registered address at ${PROVIDER_ADDRESS} (hereinafter referred to as the “Provider”) .
 
 (Collectively referred to as the "Parties" and individually as a "Party").
 
