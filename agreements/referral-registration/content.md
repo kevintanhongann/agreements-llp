@@ -20,10 +20,10 @@ specific_modifications_and_overrides: |
 **PARTIES INFORMATION**
 
 |   |   |
-| - | - |
-| **Referrer** | ${REFERRER_NAME} (Registration No. ${REFERRER_REGISTRATION_NO}) at ${REFERRER_ADDRESS} |
-| **Recipient** | ${RECIPIENT_NAME} (Registration No. ${RECIPIENT_REGISTRATION_NO}) at ${RECIPIENT_ADDRESS} |
-| **Date** | ${EFFECTIVE_DATE} |
+| - | --- |
+| **Referrer** | **${REFERRER_NAME} (Registration No. ${REFERRER_REGISTRATION_NO})** at ${REFERRER_ADDRESS} |
+| **Recipient** | **${RECIPIENT_NAME} (Registration No. ${RECIPIENT_REGISTRATION_NO})** at ${RECIPIENT_ADDRESS} |
+| **Effective Date** | ${EFFECTIVE_DATE} |
 
 <br/>
 
@@ -58,11 +58,13 @@ ${SPECIFIC_MODIFICATIONS_AND_OVERRIDES}
 
 \newpage
 
-**IN WITNESS WHEREOF,** the parties have executed this Referral Registration by their duly authorized representatives.
+**IN WITNESS WHEREOF,** the parties have executed this Referral Registration by their duly authorized representatives on the Effective Date.
 
 | **For and on behalf of Referrer**    | **For and on behalf of Recipient** |
 | - | - |
 | Signature: | Signature: |
+| | |
+| | |
 | Name: | Name: |
 | Position: | Position: |
 | Date: | Date: |

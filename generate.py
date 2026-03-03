@@ -182,10 +182,10 @@ def main():
     # Parse frontmatter and body
     metadata, body = parse_frontmatter(content_file)
 
-    # Merge variables (frontmatter overrides globals)
+    # Merge variables (CLI/metadata file overrides frontmatter)
     # Also uppercase keys for compatibility with ${VAR} style in lua if needed,
     # but we will use Jinja2.
-    all_vars = {**global_vars, **metadata}
+    all_vars = {**metadata, **global_vars}
 
     # Uppercase versions for ${VAR} legacy support
     legacy_vars = {k.upper(): v for k, v in all_vars.items() if isinstance(k, str)}
@@ -233,6 +233,13 @@ def main():
         tmp_path = tmp.name
 
     try:
+        # Check if output is PDF
+        is_pdf = args.output.lower().endswith(".pdf")
+        pandoc_output = args.output
+        if is_pdf:
+            # Generate intermediate ODT first
+            pandoc_output = str(Path(args.output).with_suffix(".odt").resolve())
+
         # Construct pandoc command
         cmd = [
             "pandoc",
@@ -240,7 +247,7 @@ def main():
             str(template_file),
             tmp_path,
             "-o",
-            args.output,
+            pandoc_output,
             "--metadata-file",
             str(vars_file),
             "--resource-path",
@@ -256,10 +263,27 @@ def main():
 
         print(f"Running command: {' '.join(cmd)}")
         subprocess.run(cmd, check=True)
+
+        if is_pdf:
+            print(f"Converting {pandoc_output} to PDF using LibreOffice...")
+            lo_cmd = [
+                "libreoffice",
+                "--headless",
+                "--convert-to",
+                "pdf",
+                "--outdir",
+                str(Path(args.output).parent.resolve()),
+                pandoc_output,
+            ]
+            subprocess.run(lo_cmd, check=True)
+            # Remove intermediate ODT
+            if Path(pandoc_output).exists():
+                Path(pandoc_output).unlink()
+
         print(f"Success! Document generated: {args.output}")
 
     except subprocess.CalledProcessError as e:
-        print(f"Pandoc command failed with exit code {e.returncode}", file=sys.stderr)
+        print(f"Command failed with exit code {e.returncode}", file=sys.stderr)
         sys.exit(e.returncode)
     except FileNotFoundError:
         print(
