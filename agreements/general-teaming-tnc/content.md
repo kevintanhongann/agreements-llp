@@ -7,7 +7,7 @@ These General Teaming Terms and Conditions ("Teaming Terms") establish the frame
 
 **RECITALS**
 
-**WHEREAS**, the Parties wish to combine their respective capabilities and resources to respond to various business opportunities, including Requests for Information (RFI), Requests for Proposal (RFP), and other solicitations (each an "Opportunity") issued by various government or commercial entities (each a "End Client");
+**WHEREAS**, the Parties wish to combine their respective capabilities and resources to respond to various business opportunities, including Requests for Information (RFI), Requests for Proposal (RFP), and other solicitations (each an "Opportunity") issued by various government or commercial entities (each a "Customer");
 
 **WHEREAS**, the Parties intend that Prime will act as the lead bidder and Provider will act as a subcontracting partner for these Opportunities;
 
@@ -25,7 +25,7 @@ These General Teaming Terms and Conditions ("Teaming Terms") establish the frame
 
 **PROPOSAL AND RESPONSE PREPARATION**
 
-5. **Prime Responsibilities.** Prime shall have primary responsibility for the preparation and submission of the response or proposal to the End Client. Prime will lead the strategy, pricing (if applicable), and final assembly of the submission.
+5. **Prime Responsibilities.** Prime shall have primary responsibility for the preparation and submission of the response or proposal to the Customer. Prime will lead the strategy, pricing (if applicable), and final assembly of the submission.
 
 6. **Provider Responsibilities.** Provider shall provide all necessary technical data, capabilities descriptions, past performance citations, resumes, and pricing information related to its assigned portion of the work, as defined in the applicable Opportunity Registration.
 
@@ -33,21 +33,21 @@ These General Teaming Terms and Conditions ("Teaming Terms") establish the frame
 
 **SUBCONTRACT NEGOTIATION AND AWARD**
 
-8. **Commitment to Subcontract.** Subject to the right of election in Section 10, if Prime is awarded a contract by the End Client for an Opportunity covered by an Opportunity Registration, Prime agrees to negotiate in good faith and execute a definitive subcontract agreement with Provider.
+8. **Commitment to Subcontract.** Subject to the right of election in Section 10, if Prime is awarded a contract by the Customer for an Opportunity covered by an Opportunity Registration, Prime agrees to negotiate in good faith and execute a definitive subcontractor agreement, statement of work, purchase order or order form ("Subcontract") with Provider.
 
-9. **Workshare.** The subcontract shall reflect the workshare and functional responsibilities described in the relevant Opportunity Registration, subject to End Client approval and any changes mandated by the End Client in the prime contract.
+9. **Workshare.** The Subcontract shall reflect the workshare and functional responsibilities described in the relevant Opportunity Registration, subject to Customer approval and any changes mandated by the Customer in the prime contract.
 
-10. **Post-Award Election.** Notwithstanding any other provision, Provider shall have a period of fifteen (15) business days following Prime’s receipt of the final award from the End Client to review the awarded scope, terms, conditions, and flow-down requirements. If the final award differs materially from the assumptions in the Opportunity Registration, or if Provider determines that the Opportunity is no longer commercially or operationally viable, Provider may elect, in its sole discretion, not to proceed with the pursuit or the execution of a subcontract without further liability to Prime.
+10. **Post-Award Election.** Notwithstanding any other provision, Provider shall have a period of fifteen (15) business days following Prime’s receipt of the final award from the Customer to review the awarded scope, terms, conditions, and flow-down requirements. If the final award differs materially from the assumptions in the Opportunity Registration, or if Provider determines that the Opportunity is no longer commercially or operationally viable, Provider may elect, in its sole discretion, not to proceed with the pursuit or the execution of a Subcontract without further liability to Prime.
 
 **PRE-SALES SUPPORT**
 
 11. **Pre-Sales Support and Delivery Selection.** The Parties acknowledge that Provider provides valuable pre-sales support, technical expertise, and strategic assistance during the Opportunity lifecycle. In the event an Opportunity is designated as Non-Exclusive and Prime elects to utilize an alternative party for the delivery and execution of the resulting contract:
 
-    a) **Notice of Intent.** Prime shall provide immediate written notice of such election to Provider. This notice shall explicitly state whether Prime intends to utilize Provider’s Response Materials or technical artifacts in its final submission to the End Client.
+    a) **Notice of Intent.** Prime shall provide immediate written notice of such election to Provider. This notice shall explicitly state whether Prime intends to utilize or have utilized Provider’s Response Materials or technical artifacts in its final submission to the Customer.
 
-    b) **Commission Obligation.** If Prime’s notice indicates an intent to utilize Provider's materials, or if Prime otherwise utilizes such materials in its submission, Prime hereby agrees to pay Provider the Opportunity Commission, contingent upon and subject to the successful award of the contract to Prime by the Client. Prime shall provide written notification to Provider within five (5) business days of receiving cleared payment from the End Client for the Workshare. Such Commission shall be payable within thirty (30) days after Prime has received cleared payment, subject to receipt of a valid invoice from Provider.
+    b) **Commission Obligation.** If Prime’s notice indicates an intent to utilize Provider's materials, or if Prime otherwise utilizes such materials in its submission, Prime hereby agrees to pay Provider the Opportunity Commission, contingent upon and subject to the successful award of the contract to Prime by the Customer. Prime shall provide written notification to Provider within five (5) business days of receiving cleared payment from the Customer for the Workshare. Such Commission shall be payable within thirty (30) days after Prime has received cleared payment, subject to receipt of a valid invoice from Provider.
 
-    c) **Commission Basis (Workshare).** Except as provided in Section 11(d), the Opportunity Commission shall be calculated based on the gross revenue received by Prime from the End Client attributable to the Provider's Workshare in the Opportunity Registration.
+    c) **Commission Basis (Workshare).** Except as provided in Section 11(d), the Opportunity Commission shall be calculated based on the gross revenue received by Prime from the Customer attributable to the Provider's Workshare in the Opportunity Registration.
 
     d) **Full Proposal Support.** Notwithstanding Section 11(c), if Prime requests and Provider provides support for the preparation of the entire proposal or response for the Opportunity, the Commission shall be calculated based on the total gross revenue received by Prime for the full contract award.
 
@@ -61,7 +61,7 @@ These General Teaming Terms and Conditions ("Teaming Terms") establish the frame
 
 12. **Confidentiality Obligation.** During the term of these Teaming Terms, the Parties may exchange "Proprietary Information." The Party disclosing information is the "Disclosing Party" and the Party receiving it is the "Recipient." Recipient shall hold all Proprietary Information in strict confidence and shall not disclose it to any third party without the express written consent of the Disclosing Party.
 
-13. **Definition and Protection.** "Proprietary Information" includes, but is not limited to, trade secrets, bid strategies, pricing data, technical processes, and End Client information. Recipient shall: (a) use Proprietary Information solely for the purpose of evaluating and preparing responses or proposals under these Teaming Terms; (b) limit internal disclosure to employees and consultants with a "need to know"; and (c) protect such information using at least a reasonable degree of care.
+13. **Definition and Protection.** "Proprietary Information" includes, but is not limited to, trade secrets, bid strategies, pricing data, technical processes, and Customer information. Recipient shall: (a) use Proprietary Information solely for the purpose of evaluating and preparing responses or proposals under these Teaming Terms; (b) limit internal disclosure to employees and consultants with a "need to know"; and (c) protect such information using at least a reasonable degree of care.
 
 14. **Exclusions.** Proprietary Information does not include information that: (a) is or becomes publicly known through no fault of the Recipient; (b) was already in Recipient’s possession without restriction; (c) is rightfully received from a third party; or (d) is independently developed by Recipient without use of the Disclosing Party’s Proprietary Information.
 
@@ -81,9 +81,9 @@ These General Teaming Terms and Conditions ("Teaming Terms") establish the frame
 
 18. **Termination of Opportunity Registration.** A specific Opportunity Registration shall terminate upon the occurrence of any of the following:
 
-    a) The End Client awards the contract to another bidder;
+    a) The Customer awards the contract to another bidder;
 
-    b) The End Client cancels the RFI, RFP, or solicitation;
+    b) The Customer cancels the RFI, RFP, or solicitation;
 
     c) The Parties mutually agree in writing to cease pursuit together;
 
@@ -158,7 +158,7 @@ By executing this Opportunity Registration, the Parties acknowledges that they h
 
 |   |   |
 | - | - |
-| **End Client** | \[Name of Government Agency or Corporation\] |
+| **Customer** | \[Name of Government Agency or Corporation\] |
 | **Opportunity Name (RFI/RFP No.)** | \[Project Name / Number\] |
 | **Exclusivity** | Exclusive / Non-exclusive |
 | **Alternative Delivery Commission Rate**  | Default 10% / Negotiated : \[XX\]% (Applicable only if Prime elects an alternative delivery partner in lieu of Provider as per section 11 of General Teaming Terms and Conditions) |
